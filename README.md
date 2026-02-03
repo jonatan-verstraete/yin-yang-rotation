@@ -1,4 +1,4 @@
-# 3D Yin-Yang (Three.js, Blender)
+# Saw a GIF somwhere, had to see if it was possbile
 
 ```sh
 bun install
